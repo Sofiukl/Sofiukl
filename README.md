@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on competitive programming and System design :sunglasses:
 - 🌱 I’m currently mastering Recursion, DS, Algo
 - 🤔 I’m looking for partner on competitive programing and System design
-- 👯 I’m looking to collaborate on project https://github.com/Sofiukl/oms
+- 👯 I’m looking to collaborate on project <a href="https://github.com/Sofiukl/oms">Order Management System in Go</a>
 
 
 ### 📫 How to reach me:

@@ -24,8 +24,10 @@
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-  
 <br />
 <br />
 
-[![Sofikul's github stats](https://github-readme-stats.vercel.app/api?username=Sofiukl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Sofiukl/github-readme-stats)
+## Stats
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sofiukl&show_icons=true&locale=en&theme=radical" alt="SofiuklM" />
+
